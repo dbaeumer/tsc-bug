@@ -1,0 +1,12 @@
+{
+  "name": "tsc-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MS",
+  "license": "MIT",
+  "description": "",
+  "devDependencies": {
+		"@types/node": "16.11.43",
+    "typescript": "^5.4.5"
+  }
+}
